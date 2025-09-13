@@ -1,0 +1,16 @@
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\bin\Debug\net8.0\ContactManager.Application.deps.json
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\bin\Debug\net8.0\ContactManager.Application.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\bin\Debug\net8.0\ContactManager.Application.pdb
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\bin\Debug\net8.0\ContactManager.Domain.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\bin\Debug\net8.0\ContactManager.Domain.pdb
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.csproj.AssemblyReference.cache
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.AssemblyInfoInputs.cache
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.AssemblyInfo.cs
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.sourcelink.json
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactM.739C78BD.Up2Date
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\refint\ContactManager.Application.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ContactManager.Application.pdb
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Application\obj\Debug\net8.0\ref\ContactManager.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\bin\Debug\net8.0\ContactManager.Domain.deps.json
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\bin\Debug\net8.0\ContactManager.Domain.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\bin\Debug\net8.0\ContactManager.Domain.pdb
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.AssemblyInfoInputs.cache
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.AssemblyInfo.cs
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.sourcelink.json
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\refint\ContactManager.Domain.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ContactManager.Domain.pdb
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Domain\obj\Debug\net8.0\ref\ContactManager.Domain.dll

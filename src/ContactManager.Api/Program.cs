@@ -1,3 +1,9 @@
+using ContactManager.Api.Middleware;
+using ContactManager.Application.Interfaces;
+using ContactManager.Application.Services;
+using ContactManager.Infrastructure.Database;
+using ContactManager.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
 
 namespace ContactManager.Api
 {
@@ -7,7 +13,12 @@ namespace ContactManager.Api
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            builder.Services.AddScoped<IContactService, ContactService>();
+            builder.Services.AddScoped<ICsvParser, CsvParserService>();
+            builder.Services.AddScoped<IContactRepository, MSContactRepository>();
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -15,6 +26,13 @@ namespace ContactManager.Api
             builder.Services.AddSwaggerGen();
 
             var app = builder.Build();
+
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+                db.Database.Migrate();
+            }
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -27,6 +45,7 @@ namespace ContactManager.Api
 
             app.UseAuthorization();
 
+            //app.UseMiddleware<ExceptionHandlingMiddleware>();
 
             app.MapControllers();
 
