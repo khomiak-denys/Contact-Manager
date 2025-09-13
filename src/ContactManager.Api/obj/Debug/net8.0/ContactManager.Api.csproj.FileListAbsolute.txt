@@ -188,5 +188,5 @@ C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\bin\Debug\ne
 C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Denys\Documents\Labs\ContactManager\src\ContactManager.Api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
